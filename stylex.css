@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: lightseagreen;
+    height: 4.5em;
+    padding-bottom: 20px;
+}
+#title {
+    margin-left: 10%;
+    padding-top: 15px;
+}
+.navigation {
+    float: right;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+.navigation a {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    border: 2px solid black;
+    margin: 45px;
+    padding: 12px;
+}
+.navigation a:hover{
+    background-color: blueviolet;
+    color: azure;
+}
+#greeting {
+    background-color: gray;
+    color: blanchedalmond;
+    height: 2em;
+    text-align: right;
+    padding-top: 30px;
+}
+.about {
+    color: white;
+    background-color: black;
+    height: 35em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid rebeccapurple;
+    padding: 10px;
+
+}
+.about h1{
+    margin-left: 50%;
+    color: red;
+    text-decoration: underline;
+}
+.about p {
+    float: right;
+    padding: 15px;
+    margin: 30px;
+    line-height: 3em;
+}
+#skills{
+    text-align: center;
+    border-style: double;
+    background-color: lightcoral;
+    height: 2em;
+    padding-top: 30px;
+}
+.lists{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    line-height: 3em;
+    list-style-type: square;
+    padding: 70px;
+    padding-right: 240px;
+    background-color: gray;
+}
+#edu {
+    background-color: lightsalmon;
+    height: 2em;
+    text-align: center;
+    padding-top: 30px;
+
+}
+.graduation {
+    text-align: center;
+    
+
+}
+#secedu{
+    text-align: center;
+    
+}
+#highsch {
+    text-align: center;
+}
+#prj{
+    text-align: center;
+    border-style: double;
+    background-color: lightcoral;
+    height: 2em;
+    padding-top: 30px;
+
+}
+#abstract {
+    font-size: medium;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serifs;
+    height: 14em;
+    line-height:3.5em;
+
+}
+
+#contact {
+    background-color: lightcoral;
+    height: 1.5em;
+    text-align: center;
+    padding-top: 15px;
+
+}
+.form{
+    border: 1px solid black;
+    width: 25%;
+    padding: 80px;
+    margin-left: 30%;
+    background-color: lightgray;
+}
+footer{
+    padding: 5px;
+    background-color: black;
+}
+footer a{
+    color: lightpink;
+    margin: 115px;
+}
+footer p{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
